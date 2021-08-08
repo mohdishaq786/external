@@ -1,0 +1,35 @@
+#para1 {
+ color: red;
+ text-align: center;
+ font-family:courier;
+}
+h1{
+ color:blue;
+ font-size:200%;
+ text-align:right;
+ background-color: #6495ed;
+}
+#para {
+ color: green;
+ text-align: center;
+ font-size:500%;
+}
+p{
+border:1px solid black;
+padding:5px;
+margin:20px;
+background-color: #e0ffff;
+}
+div {
+   /* Background pattern from Toptal Subtle Patterns */
+   background-image: url("https://www.sololearn.com/Uploads/html-css.jpg");
+   height: 300px;
+   width: 100%;
+}
+
+
+ 
+div{
+ text-decoration:overline;
+ font-size:200%;
+}
